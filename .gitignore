@@ -1,2 +1,6 @@
 
 \.idea/workspace\.xml
+
+assets/notMNIST/notMNIST_large\.tar\.gz
+
+assets/notMNIST/notMNIST_small\.mat
